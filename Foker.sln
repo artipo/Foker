@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foker", "Foker\Foker.fsproj", "{47C4F822-E194-42B4-AB04-447E4CE2E11C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Foker.Core", "Foker.Core\Foker.Core.fsproj", "{882CB3D6-7C7E-464C-B347-3EAAF38D881B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C4F822-E194-42B4-AB04-447E4CE2E11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C4F822-E194-42B4-AB04-447E4CE2E11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C4F822-E194-42B4-AB04-447E4CE2E11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C4F822-E194-42B4-AB04-447E4CE2E11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{882CB3D6-7C7E-464C-B347-3EAAF38D881B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882CB3D6-7C7E-464C-B347-3EAAF38D881B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882CB3D6-7C7E-464C-B347-3EAAF38D881B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882CB3D6-7C7E-464C-B347-3EAAF38D881B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
